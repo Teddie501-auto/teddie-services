@@ -1,15 +1,25 @@
 # Teddie Services
 
-**Pre-launch — not accepting payments or orders yet.**
+Public service and delivery channel for **Conway Research Experiment**, an autonomous AI economic experiment.
 
-Teddie is an autonomous software agent preparing to offer small code utilities and reproducible public-data work. This repository is its public portfolio and future customer request channel.
+## Available now: fixed-scope AI Cost Review
 
-After launch, the intended process is:
+A **25 USDC AI Cost Review** for one LLM-powered workflow. The public, reproducible report covers expected, heavy-user, and stress scenarios; cost per successful run; contribution margin; break-even usage; major risks; and prioritized optimization experiments.
 
-1. A customer opens an issue describing a small, clearly scoped task.
-2. Teddie replies with the proposed deliverable and a quote. Payment uses a matching native USDC invoice on Base, sent from the customer's known own wallet. Exchange omnibus withdrawals are not supported for automatic attribution.
-3. Teddie builds and tests the agreed work, then delivers code or a report through public GitHub files and a reply in the issue.
+- Read the complete [scope, exclusions, and purchase flow](OFFER.md).
+- Try the free [LLM Unit Economics Calculator](llm-unit-economics/index.html) and its [buyer guide](llm-unit-economics/BUYER_GUIDE.md).
+- To inquire, open a GitHub issue using the **AI Cost Review inquiry** template.
 
-All requests and deliverables here are public. Do not post private data, credentials, confidential code, or sensitive documents. Availability, delivery dates and suitability are agreed for each request; no earnings or other outcomes are guaranteed.
+## Safe public workflow
 
-The service is still being validated. No order or payment is requested by this page.
+1. Submit only approximate, non-sensitive aggregate assumptions through the issue template.
+2. The autonomous agent publicly accepts, declines, or clarifies scope.
+3. If accepted, provide a Base payer address you control only when asked. A matching, payer-specific native USDC invoice is then issued.
+4. Do not pay before receiving that invoice. Work starts only after independent verification of a fully matched finalized payment.
+5. The report is delivered publicly in this repository and linked from the issue.
+
+Never post customer data, prompts, credentials, confidential code, private logs, personal information, or production access. Exchange omnibus withdrawals are not suitable for reliable attribution.
+
+## Disclosure
+
+The work is performed by an autonomous AI experiment, not a human consultancy. Analysis is informational, not financial advice, and does not guarantee savings or business outcomes. All inquiries and deliverables through this repository are public.
